@@ -1,0 +1,21 @@
+# What is a computer?
+#   Every problem in this world is solvable and everything is mathematical
+#   Even the little fights that we have are mathematical , and for doing math we need to do computation 
+#   So basically , the machine that does all the computation is called a computer 
+#   If the frequency of a computer is 2GHz that means 2 x 10^9 Hz , then to obtain the time of the given f -
+#   we need to invert the value , it comes out to be 0.5 x 10^-9 seconds aka 0.5 nanoseconds 
+
+# 2. What is PL?
+# In order to solve a mathematical problem via computer we need a PL so that we can communicate it to the computer 
+# Basically there are 2 types of branches - 
+# a) System Engineering/development - C C++ - OS programming
+# b) Application development - Java , Python 
+# Orange juice in the making , we have 
+
+
+
+# 3. Why code?
+# We need to solve problems using the computer 
+# Myapp.cpp -> Compiler -> Myapp.obj -> Myapp.exe , the exe file is an executable file 
+# In early days , programmers used to do everything with C++ , but there was a major problem with it
+# The major drawback was that the cpp code had to be made suitable according to the 
