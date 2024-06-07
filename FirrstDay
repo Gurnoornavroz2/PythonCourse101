@@ -4,13 +4,16 @@
 #   So basically , the machine that does all the computation is called a computer 
 #   If the frequency of a computer is 2GHz that means 2 x 10^9 Hz , then to obtain the time of the given f -
 #   we need to invert the value , it comes out to be 0.5 x 10^-9 seconds aka 0.5 nanoseconds 
+#   Comouter does computations by converting the data into binary 
 
 # 2. What is PL?
 # In order to solve a mathematical problem via computer we need a PL so that we can communicate it to the computer 
 # Basically there are 2 types of branches - 
 # a) System Engineering/development - C C++ - OS programming
 # b) Application development - Java , Python 
-# Orange juice in the making , we have 
+# Orange juice in the making , we have oranges as the data and the input , then we have the juicer that can be corresponded to a compiler 
+# Then we have the packaging , we have tetra packaging which can be suitable for everyone- thats java and we also have a glass , a plastic bag 
+# that can correspond to cpp made for windows , mac etc ( .sh for linux , .dmg for Mac)
 
 
 
@@ -21,4 +24,14 @@
 # It also then pases it to the H/W Layer 
 # In early days , programmers used to do everything with C++ , but there was a major problem with it
 # The major drawback was that the cpp code had to be made suitable according to the OS on which we wished to operate it.
-# Then came Java , in  which we just had to make a Myapp.class file that could be used to any OS , bcs it did not   
+# Then came Java , in  which we just had to make a Myapp.class file that could be used to any OS 
+# So we have Java Virtual Machine (JVM) that can convert .class into machine code , the use of such exclusive machines also frees up the OS .
+# The freed up OS that does not have to deal with compiling languages anymore can now deal with other tasks of the system .
+# Similarily in python , we have made a file called Myapp.py which is suitable for all OS  , here no such things as compiler exists 
+# Working with this is very easy - this in short describes the flow of python 
+
+# After we open the app , everything that we do is called a process. 
+
+# 4. Every process has a main thread  , every main thread is the one that carries along with it many tasks .
+# Programming should be manner in which it reduces the time and spcae complexity , and should solve real world problems.
+# 
