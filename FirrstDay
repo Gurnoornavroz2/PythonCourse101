@@ -17,5 +17,8 @@
 # 3. Why code?
 # We need to solve problems using the computer 
 # Myapp.cpp -> Compiler -> Myapp.obj -> Myapp.exe , the exe file is an executable file 
+# Myapp.exe is consumed by the OS whoch extracts the obj , converts it into machine code
+# It also then pases it to the H/W Layer 
 # In early days , programmers used to do everything with C++ , but there was a major problem with it
-# The major drawback was that the cpp code had to be made suitable according to the 
+# The major drawback was that the cpp code had to be made suitable according to the OS on which we wished to operate it.
+# Then came Java , in  which we just had to make a Myapp.class file that could be used to any OS , bcs it did not   
