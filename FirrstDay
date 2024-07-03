@@ -1,37 +1,88 @@
 # What is a computer?
-#   Every problem in this world is solvable and everything is mathematical
-#   Even the little fights that we have are mathematical , and for doing math we need to do computation 
-#   So basically , the machine that does all the computation is called a computer 
-#   If the frequency of a computer is 2GHz that means 2 x 10^9 Hz , then to obtain the time of the given f -
-#   we need to invert the value , it comes out to be 0.5 x 10^-9 seconds aka 0.5 nanoseconds 
-#   Comouter does computations by converting the data into binary 
+   Every problem in this world is solvable and everything is mathematical
+  Even the little fights that we have are mathematical , and for doing math we need to do computation 
+  So basically , the machine that does all the computation is called a computer 
+  If the frequency of a computer is 2GHz that means 2 x 10^9 Hz , then to obtain the time of the given f -
+  we need to invert the value , it comes out to be 0.5 x 10^-9 seconds aka 0.5 nanoseconds 
+  Comouter does computations by converting the data into binary 
 
 # 2. What is PL?
-# In order to solve a mathematical problem via computer we need a PL so that we can communicate it to the computer 
-# Basically there are 2 types of branches - 
-# a) System Engineering/development - C C++ - OS programming
-# b) Application development - Java , Python 
-# Orange juice in the making , we have oranges as the data and the input , then we have the juicer that can be corresponded to a compiler 
-# Then we have the packaging , we have tetra packaging which can be suitable for everyone- thats java and we also have a glass , a plastic bag 
-# that can correspond to cpp made for windows , mac etc ( .sh for linux , .dmg for Mac)
+In order to solve a mathematical problem via computer we need a PL so that we can communicate it to the computer 
+ Basically there are 2 types of branches - 
+ a) System Engineering/development - C C++ - OS programming
+ b) Application development - Java , Python 
+ Orange juice in the making , we have oranges as the data and the input , then we have the juicer that can be corresponded to a compiler 
+ Then we have the packaging , we have tetra packaging which can be suitable for everyone- thats java and we also have a glass , a plastic bag 
+ that can correspond to cpp made for windows , mac etc ( .sh for linux , .dmg for Mac)
 
 
 
 # 3. Why code?
-# We need to solve problems using the computer 
-# Myapp.cpp -> Compiler -> Myapp.obj -> Myapp.exe , the exe file is an executable file 
-# Myapp.exe is consumed by the OS whoch extracts the obj , converts it into machine code
-# It also then pases it to the H/W Layer 
-# In early days , programmers used to do everything with C++ , but there was a major problem with it
-# The major drawback was that the cpp code had to be made suitable according to the OS on which we wished to operate it.
-# Then came Java , in  which we just had to make a Myapp.class file that could be used to any OS 
-# So we have Java Virtual Machine (JVM) that can convert .class into machine code , the use of such exclusive machines also frees up the OS .
-# The freed up OS that does not have to deal with compiling languages anymore can now deal with other tasks of the system .
-# Similarily in python , we have made a file called Myapp.py which is suitable for all OS  , here no such things as compiler exists 
-# Working with this is very easy - this in short describes the flow of python 
+We need to solve problems using the computer 
+ Myapp.cpp -> Compiler -> Myapp.obj -> Myapp.exe , the exe file is an executable file 
+ Myapp.exe is consumed by the OS whoch extracts the obj , converts it into machine code
+ It also then pases it to the H/W Layer 
+ In early days , programmers used to do everything with C++ , but there was a major problem with it
+ The major drawback was that the cpp code had to be made suitable according to the OS on which we wished to operate it.
+ Then came Java , in  which we just had to make a Myapp.class file that could be used to any OS 
+ So we have Java Virtual Machine (JVM) that can convert .class into machine code , the use of such exclusive machines also frees up the OS .
+ The freed up OS that does not have to deal with compiling languages anymore can now deal with other tasks of the system .
+ Similarily in python , we have made a file called Myapp.py which is suitable for all OS  , here no such things as compiler exists 
+ Working with this is very easy - this in short describes the flow of python 
 
-# After we open the app , everything that we do is called a process. 
+ After we open the app , everything that we do is called a process. 
 
 # 4. Every process has a main thread  , every main thread is the one that carries along with it many tasks .
-# Programming should be manner in which it reduces the time and spcae complexity , and should solve real world problems.
-# 
+Programming should be manner in which it reduces the time and spcae complexity , and should solve real world problems.
+
+
+
+
+# 5. What is an Operating system?
+  the low-level software that supports a computer's basic functions, such as scheduling tasks and controlling peripherals.
+
+# 6. What is compute unit?
+It is present in hardware layer , and is often called the processor  
+
+If we want to work on Hardware layer then we are engineering electronics , if we have to work on operating system then we are working on system engineering , if we are working on  Application layer then we are doing application engineering.
+
+In the most basic sense , there are 3 Layers in a computer system , namely first the Hardware Layer , then the Operating System layer , and Lastly the application Layer.
+
+It is incredibly difficult to engineer the lowest layers of computers.
+
+Modem layer and radio interface layer are the toughest to engineer in terms of 
+
+# ANALOGY OF AN ORANGE LAYER TO APPLICATION DEVELOPMENT IN CPP=
+
+1. Collecting oranges to be used - Writing code
+
+2. Blending them in Juicer Mixer - Putting code in a compiler and running it
+
+3. Packaging the Juice - converting the code into executable files , aka machine code by extraction of objects
+
+The above also is a perfect demonstration as to why we needed programming langugaes like JAVA , we needed to pack the code into different pacvkaging like .dmg for MAC and .sh for Linux , the programmers had to ,odify the same program a lot many times for the program to be able to run on different platforms. 
+
+What makes JAVA and PYTHON so special is that they have a virtual machine which packages the code into tetra packs or converts the bitecode into machine code allowing the compiuter to execute these instructions and exeute them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
